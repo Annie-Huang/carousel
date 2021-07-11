@@ -1,0 +1,8 @@
+HTML, CSS, JavaScript Carousel Tutorial Step by Step - JavaScript Tutorials for Beginners
+https://www.youtube.com/watch?v=gor5BvT2z88&t=297s
+
+
+======================================================================
+
+No animation, just swapping images.
+Pure html, js and css example.
